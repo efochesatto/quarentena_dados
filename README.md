@@ -1,2 +1,2 @@
 # quarentena_dados
-Introdução a data science (Alura)
+Noções básicas e introdução data science (Semana de atividades, Alura). 
